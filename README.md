@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pavan Vittanala .. 😎️
+- 👋 Hi, I’m Pavan Vittanala .. ✨
 - 💻️ I'm a pessimist ,, so i always capture the best code .... 😎️
-- 👀 I’m interested in everything ..😗️
-- 🌱 I’m currently a 3rd year undergraduate at GMRIT, Rajam
-- 💞️ Always available for new opportunities ..
+- 👀 I’m interested in problem solving and web development .. 💡
+- 🌱 I’m currently a 3rd year undergraduate at GMRIT, Rajam .. 🧑‍🎓 
+- 💞️ Always available for new opportunities .. 
 - 📫 Reach me at : vittanala2002@gmail.com
 
 <!---
