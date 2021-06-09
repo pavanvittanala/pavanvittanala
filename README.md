@@ -27,6 +27,21 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
+<div align="center">
+
+## Github Stats
+<a href="https://github.com/venugopalkadamba">
+  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
+</a>
+</div>
+
+<div align="center">
+
+## Top Languages
+<a href="https://github.com/venugopalkadamba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
+</a>
+ </div>
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{pavanvittanala}/count.svg)
