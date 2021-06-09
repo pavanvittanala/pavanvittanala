@@ -30,16 +30,16 @@
 <div align="center">
 
 ## Github Stats
-<a href="https://github.com/venugopalkadamba">
-  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
+<a href="https://github.com/pavanvittanala">
+  <img align="center" alt="Pavan Vittanala Github Stats" src="https://github-readme-stats.vercel.app/api?username=pavanvittanala&show_icons=true&theme=tokyonight">
 </a>
 </div>
 
 <div align="center">
 
 ## Top Languages
-<a href="https://github.com/venugopalkadamba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
+<a href="https://github.com/pavanvittanala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanvittanala&theme=tokyonight&layout=compact">
 </a>
  </div>
 
