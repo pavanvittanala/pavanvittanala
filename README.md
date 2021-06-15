@@ -13,6 +13,7 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
+	<a href="https://pavanvittanala.github.io" target="_blank"><img alt="Resume Site" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/2x/resume.png"/></a>
 	<a href="https://github.com/pavanvittanala" target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/pavanvittanala/" target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/VittanalaPavan" target="_blank"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
