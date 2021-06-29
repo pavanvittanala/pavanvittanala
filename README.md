@@ -4,7 +4,7 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 - I'm **Developer** | **Programmer** | **Learner**
 - Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
@@ -36,8 +36,6 @@
   <img align="center" alt="Pavan Vittanala Github Stats" src="https://github-readme-stats.vercel.app/api?username=pavanvittanala&show_icons=true&theme=tokyonight">
 </a>
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pavanvittanala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pavanvittanala?trk=profile-badge">Vittanala Babu Surya Sandeep Pavan Kumar</a></div>
 
 <div align="center">
 
