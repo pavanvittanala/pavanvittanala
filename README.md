@@ -4,6 +4,7 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 - I'm **Developer** | **Programmer** | **Learner**
 - Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
@@ -36,6 +37,8 @@
 </a>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pavanvittanala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pavanvittanala?trk=profile-badge">Vittanala Babu Surya Sandeep Pavan Kumar</a></div>
+
 <div align="center">
 
 ## Top Languages
@@ -46,11 +49,7 @@
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{pavanvittanala}/count.svg)
-
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="pavanvittanala" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pavanvittanala?trk=profile-badge">Vittanala Babu Surya Sandeep Pavan Kumar</a></div>
-              
+           
 
 <!---
 pavanvittanala/pavanvittanala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
